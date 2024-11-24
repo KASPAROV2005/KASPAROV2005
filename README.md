@@ -56,19 +56,20 @@
 
 ---
 
-## 🎶 Currently Listening To: **MR CRAZY - MACHI MOCHKIL**
+## 🎶 Currently Listening To: **HABLO - 3aref Ach Baghi**
 
 <p align="center">
-  <a href="https://open.spotify.com/track/0ggPNs7I0hfd8FRcfhBg7Z" target="_blank">
-    <img src="https://i.scdn.co/image/ab67616d0000b2733e7cf2a85e0dd8916d6dcd70" alt="MR CRAZY - MACHI MOCHKIL" style="border-radius:15px; box-shadow: 0px 10px 15px rgba(0, 0, 0, 0.3); width:100%; max-width:500px;" />
+  <a href="https://open.spotify.com/intl-fr/track/0ggPNs7I0hfd8FRcfhBg7Z?si=aef1589e17174d89" target="_blank">
+    <img src="https://i.scdn.co/image/ab67616d0000b2733e7cf2a85e0dd8916d6dcd70" alt="HABLO - 3aref Ach Baghi" style="border-radius:15px; box-shadow: 0px 10px 15px rgba(0, 0, 0, 0.3); width:100%; max-width:500px;" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://open.spotify.com/track/0ggPNs7I0hfd8FRcfhBg7Z">
+  <a href="https://open.spotify.com/intl-fr/track/0ggPNs7I0hfd8FRcfhBg7Z?si=aef1589e17174d89">
     <img src="https://img.shields.io/badge/Listen%20on%20Spotify-Click%20Here-brightgreen?style=for-the-badge&logo=spotify" alt="Listen on Spotify" />
   </a>
 </p>
+
 
 
 
