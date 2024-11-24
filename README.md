@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Walid Islah!
 
-![Hello L3chran](https://giphy.com/gifs/sigma-abdelhadi-OZxndRCyjU2abQj0yE)
+![Hello L3chran](https://media.giphy.com/media/OZxndRCyjU2abQj0yE/giphy.gif)
 
 🎓 **3rd-Year Computer Science Student**  
 💻 Passionate about programming, cybersecurity, and building impactful technology.  
@@ -134,8 +134,11 @@ Feel free to connect for collaborations or just to say hi! 😊
 
 ---
 
-## 🖥️ "Hello World" in 4 Languages
+## 🖥️ "Hello L3chran !!" 
 
 ### 1. **JavaScript**
 ```javascript
 console.log("Hello, L3chran!");
+
+
+
