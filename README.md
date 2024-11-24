@@ -59,7 +59,7 @@
 ## 🎶 Currently Listening To: **HABLO - 3aref Ach Baghi**
 
 <p align="center">
-  <a href="https://open.spotify.com/intl-fr/track/0ggPNs7I0hfd8FRcfhBg7Z?si=aef1589e17174d89" target="_blank">
+  <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuhYp9Q9J-ABG3G_oPPkrXUCSWZQAeWnD09A&s" target="_blank">
     <img src="https://i.scdn.co/image/ab67616d0000b2733e7cf2a85e0dd8916d6dcd70" alt="HABLO - 3aref Ach Baghi" style="border-radius:15px; box-shadow: 0px 10px 15px rgba(0, 0, 0, 0.3); width:100%; max-width:500px;" />
   </a>
 </p>
