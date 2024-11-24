@@ -57,9 +57,11 @@
 ---
 
 ## 🎵 Currently Listening To
-[![Spotify Now Playing](https://img.shields.io/badge/Spotify-Now_Playing-green?style=flat&logo=spotify)](https://open.spotify.com/track/0ggPNs7I0hfd8FRcfhBg7Z)
-
-Click the badge to listen to my current favorite track! 🎧
+<p align="center">
+  <a href="https://open.spotify.com/track/0ggPNs7I0hfd8FRcfhBg7Z" target="_blank">
+    <img src="https://i.scdn.co/image/ab67616d0000b2733e7cf2a85e0dd8916d6dcd70" alt="Spotify Track" style="border-radius:12px; width:100%; max-width:500px;" />
+  </a>
+</p>
 
 
 ---
