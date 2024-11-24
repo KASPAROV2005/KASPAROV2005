@@ -1,5 +1,7 @@
 # 👋 Hi there, I'm Walid Islah!
 
+![Hello L3chran](https://giphy.com/gifs/sigma-abdelhadi-OZxndRCyjU2abQj0yE)
+
 🎓 **3rd-Year Computer Science Student**  
 💻 Passionate about programming, cybersecurity, and building impactful technology.  
 🌟 **My Goal**: To become an expert in development, software engineering, and solving real-world problems!
@@ -59,7 +61,7 @@
 ## 🎶 Currently Listening To: **HABLO - 3aref Ach Baghi**
 
 <p align="center">
-  <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuhYp9Q9J-ABG3G_oPPkrXUCSWZQAeWnD09A&s" target="_blank">
+  <a href="https://open.spotify.com/intl-fr/track/0ggPNs7I0hfd8FRcfhBg7Z?si=aef1589e17174d89" target="_blank">
     <img src="https://i.scdn.co/image/ab67616d0000b2733e7cf2a85e0dd8916d6dcd70" alt="HABLO - 3aref Ach Baghi" style="border-radius:15px; box-shadow: 0px 10px 15px rgba(0, 0, 0, 0.3); width:100%; max-width:500px;" />
   </a>
 </p>
@@ -69,10 +71,6 @@
     <img src="https://img.shields.io/badge/Listen%20on%20Spotify-Click%20Here-brightgreen?style=for-the-badge&logo=spotify" alt="Listen on Spotify" />
   </a>
 </p>
-
-
-
-
 
 ---
 
@@ -133,3 +131,11 @@
 
 ## 💡 How to Reach Me
 Feel free to connect for collaborations or just to say hi! 😊
+
+---
+
+## 🖥️ "Hello World" in 4 Languages
+
+### 1. **JavaScript**
+```javascript
+console.log("Hello, L3chran!");
