@@ -36,22 +36,22 @@
 
 ## ⚡ GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=walidislah&show_icons=true&theme=tokyonight" alt="Walid's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=walidislah&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KASPAROV2005&show_icons=true&theme=tokyonight" alt="Walid's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KASPAROV2005&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=walidislah&theme=gruvbox&no-frame=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=KASPAROV2005&theme=gruvbox&no-frame=true" alt="GitHub Trophies" />
 </p>
 
 ---
 
 ## 📊 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=walidislah&theme=react-dark" alt="GitHub Contribution Graph" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=KASPAROV2005&theme=react-dark" alt="GitHub Contribution Graph" />
 </p>
 
 ---
@@ -66,7 +66,8 @@
 ## 🌐 Languages I Speak
 - 🇲🇦 **Arabic (Moroccan Darija)**  
 - 🇫🇷 **French**  
-- 🏳️ **Amazigh**
+- ˢᵖ **Spanish**
+- ⁿˡ **Deutsch**
 
 ---
 
@@ -92,7 +93,7 @@
   <a href="https://twitter.com/yourusername">
     <img src="https://img.shields.io/badge/Twitter-@yourusername-blue?logo=twitter&style=flat-square" alt="Twitter Badge" />
   </a>
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:walidislah2005@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail&style=flat-square" alt="Email Badge" />
   </a>
 </p>
@@ -113,7 +114,7 @@
 ---
 
 ### 📜 Profile Views
-![](https://komarev.com/ghpvc/?username=walidislah&color=blue&style=flat-square)
+![](https://komarev.com/ghpvc/?username=KASPAROV2005&color=blue&style=flat-square)
 
 ---
 
