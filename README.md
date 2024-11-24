@@ -1,12 +1,13 @@
 # 👋 Hi there, I'm Walid Islah!
 
-![Hello L3chran](https://media.giphy.com/media/OZxndRCyjU2abQj0yE/giphy.gif)
+![Hello L3chran GIF](https://media.giphy.com/media/OZxndRCyjU2abQj0yE/giphy.gif)
 
 🎓 **3rd-Year Computer Science Student**  
 💻 Passionate about programming, cybersecurity, and building impactful technology.  
 🌟 **My Goal**: To become an expert in development, software engineering, and solving real-world problems!
 
 ---
+
 
 ## 🚀 Languages and Frameworks I'm Studying
 <p align="left">
