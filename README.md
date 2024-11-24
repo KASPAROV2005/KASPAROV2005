@@ -56,10 +56,11 @@
 
 ---
 
-## 🎵 Currently Listening
-<p align="center">
-  <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify Now Playing" />
-</p>
+## 🎵 Currently Listening To
+[![Spotify Now Playing](https://img.shields.io/badge/Spotify-Now_Playing-green?style=flat&logo=spotify)](https://open.spotify.com/track/0ggPNs7I0hfd8FRcfhBg7Z)
+
+Click the badge to listen to my current favorite track! 🎧
+
 
 ---
 
